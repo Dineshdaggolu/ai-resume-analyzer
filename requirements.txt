@@ -6,4 +6,4 @@ PyPDF2==3.0.1
 azure-ai-textanalytics==5.3.0  # Optional
 azure-core==1.29.5              # Optional
 python-dotenv==1.0.0
-pip freeze > requirements.txt
+
